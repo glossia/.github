@@ -1,4 +1,4 @@
-# Glossia
+👋 Hallo 👋
 
 We love open source.
 We believe it plays a crucial role in crafting the best technologies by bringing diverse perspectives together.
