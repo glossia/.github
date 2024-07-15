@@ -1,3 +1,3 @@
-👋 Hallo 👋
+Glossia is a collective dedicated to crafting small, playful, and open-source software. We prioritize environmental impact and sustainable lifestyles in our work. Challenging the notion that all modern technology is beneficial, we believe many innovations can undermine self-sufficiency and human dignity.
 
-We are exploring building a knowledge management system whose design allows for building native experiences in each supported platform.
+Inspired by Ivan Illich's concept of ["convivial tools,"](https://en.wikipedia.org/wiki/Tools_for_Conviviality) we create software that enhances human agency and creativity. Unlike proprietary solutions, our tools are flexible and open-ended, designed to serve individuals and communities directly. Glossia aims to redefine technology's role in society, promoting independence and sustainability in the digital age.
