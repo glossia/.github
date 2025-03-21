@@ -1,11 +1,9 @@
-## Glossia
+# Glossia
 
-Glossia is a modern and open-source localization toolchain.
-Many solutions build on old-fashioned building blocks and principles,
-and that led to a mastodon level of unbearable complexity and indirection.
+Languages are accessibility tools that organizations often push aside—not because they don't matter, but because their impact is hard to measure and making them a priority feels too costly.
 
-We believe LLM capabilities laid the ground for a simpler solution,
-but it requires reimagining localization as we know it today.
-We are doing that at Glossia,
-drawing ideas from open source and continuous software delivery,
-and building and working with a thriving community that's eager to bring some fresh air to the ecosystem.
+This is where Glossia and the power of LLMs create a breakthrough opportunity. Glossia serves as your organization's language hub—think of it as a brain that understands and preserves your unique voice while providing practical tools to solve real problems, whether you're localizing software or crafting marketing messages that resonate across cultures.
+
+The localization industry has been stuck in a one-track mindset, narrowly focused on translation alone and creating a maze of disconnected solutions that complicate rather than simplify. Glossia takes a fresh approach, recognizing that language is about human connection, not just word conversion.
+
+We're reimagining what's possible when language becomes central to your organization's thinking, not an afterthought.
